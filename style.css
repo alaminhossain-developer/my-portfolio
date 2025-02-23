@@ -27,6 +27,7 @@ section {
 .hero-img,
 .hero-contain {
   width: 40%;
+  height: 600px;
   float: left;
   margin-left: 5%;
   padding-left: 2%;
@@ -43,7 +44,6 @@ section {
 
 .hero-img img {
   width: 100%;
-  hight: 50%;
 }
 
 .dream {
